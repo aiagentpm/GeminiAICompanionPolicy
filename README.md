@@ -48,9 +48,9 @@ This Privacy Policy describes how the Gemini AI Companion Chrome extension (“w
 
 ## 8. Changes to This Privacy Policy
 
-- We may update this Privacy Policy from time to time. Any changes will be posted publicly in our [GitHub repository](https://github.com/aiagentpm/GeminiAICompanionPolicy/edit/main/README.md) and reflected in the “Last updated” date above. Continued use of the Extension after such changes constitutes acceptance of the updated policy.
+- We may update this Privacy Policy from time to time. Any changes will be posted publicly in our [GitHub repository](https://github.com/aiagentpm/GeminiAICompanionPolicy/blob/main/README.md) and reflected in the “Last updated” date above. Continued use of the Extension after such changes constitutes acceptance of the updated policy.
 
 ## 9. Contact Us
 
-If you have any questions, concerns, or requests regarding this Privacy Policy or the Extension’s privacy practices, please contact us by opening an issue on our [GitHub repository](https://github.com/YOUR-USERNAME/YOUR-REPO) or via the Chrome Web Store support page.
+If you have any questions, concerns, or requests regarding this Privacy Policy or the Extension’s privacy practices, please contact us by opening an issue on our [GitHub repository](https://github.com/aiagentpm/GeminiAICompanionPolicy/blob/main/README.md) or via the Chrome Web Store support page.
 
